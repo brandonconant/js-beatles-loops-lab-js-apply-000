@@ -58,5 +58,4 @@ function iLoveTheBeatles(num){
   
   return newArray;
 }
->>>>>>> 659266b19b6586fba6a2a73c724ca8de76ba8b01
 
