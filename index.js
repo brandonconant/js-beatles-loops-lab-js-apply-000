@@ -52,7 +52,11 @@ function iLoveTheBeatles(num){
     newArray.push('I love the Beatles!');
     i++;
   } while ( i <= num && num < 15);
- 
+  
  return newArray;  
+  } while (num < 15);
+  
+  return newArray;
 }
+>>>>>>> 659266b19b6586fba6a2a73c724ca8de76ba8b01
 
